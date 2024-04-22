@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/company_A"
+        android:title="A" />
+
+    <item
+        android:id="@+id/company_B"
+        android:title="B" />
+
+    <item
+        android:id="@+id/company_C"
+        android:title="C" />
+    <item
+        android:id="@+id/company_D"
+        android:title="D" />
+
+    <item
+        android:id="@+id/company_E"
+        android:title="E" />
+
+    <item
+        android:id="@+id/company_F"
+        android:title="F" />
+    <item
+        android:id="@+id/company_G"
+        android:title="G" />
+
+    <item
+        android:id="@+id/company_H"
+        android:title="H" />
+
+    <item
+        android:id="@+id/company_I"
+        android:title="I" />
+    <item
+        android:id="@+id/company_J"
+        android:title="J" />
+
+    <item
+        android:id="@+id/company_K"
+        android:title="K" />
+
+    <item
+        android:id="@+id/company_L"
+        android:title="L" />
+
+    <item
+        android:id="@+id/company_M"
+        android:title="M" />
+    <item
+        android:id="@+id/company_N"
+        android:title="N" />
+
+    <item
+        android:id="@+id/company_O"
+        android:title="O" />
+
+    <item
+        android:id="@+id/company_P"
+        android:title="P" />
+    <item
+        android:id="@+id/company_Q"
+        android:title="Q" />
+
+    <item
+        android:id="@+id/company_R"
+        android:title="R" />
+
+    <item
+        android:id="@+id/company_S"
+        android:title="S" />
+    <item
+        android:id="@+id/company_T"
+        android:title="T" />
+
+    <item
+        android:id="@+id/company_U"
+        android:title="U" />
+
+    <item
+        android:id="@+id/company_V"
+        android:title="V" />
+    <item
+        android:id="@+id/company_W"
+        android:title="W" />
+
+    <item
+        android:id="@+id/company_X"
+        android:title="X" />
+
+    <item
+        android:id="@+id/company_Y"
+        android:title="Y" />
+    <item
+        android:id="@+id/company_Z"
+        android:title="Z" />
+
+</menu>
